@@ -1,4 +1,4 @@
-# Issue
+# Issue https://youtrack.jetbrains.com/issue/RUBY-18320
 
 Single Slim template freezing RubyMine
 
